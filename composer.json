@@ -1,11 +1,11 @@
 {
-    "name": "drawmyattention/php-project-boilerplate",
+    "name": "tradeshift/interview",
     "description": "PHP boilerplate including PSR-4 autoloading, PHPUnit test config (with separate PSR-2 namespace), and Travis CI.",
     "license": "MIT",
     "authors": [
         {
-            "name": "Amo Chohan",
-            "email": "amo.chohan@gmail.com"
+            "name": "Hieu Vo",
+            "email": "hieu.vo@gmail.com"
         }
     ],
     "require": {},
@@ -14,13 +14,13 @@
     },
     "autoload": {
       "psr-4": {
-        "DrawMyAttention\\MyProject\\" : "src"
+        "Tradeshift\\interview\\" : "src"
       },
     "files": ["config.php"]
     },
     "autoload-dev": {
       "psr-0": {
-        "MyProjectTests\\": "tests/"
+        "Tests\\": "tests/"
       }
     }
 }
