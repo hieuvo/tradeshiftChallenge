@@ -8,7 +8,9 @@
             "email": "hieu.vo@gmail.com"
         }
     ],
-    "require": {},
+    "require": {
+        "monolog/monolog": "^1.22"
+    },
     "require-dev": {
       "phpunit/phpunit": "~4.0"
     },
