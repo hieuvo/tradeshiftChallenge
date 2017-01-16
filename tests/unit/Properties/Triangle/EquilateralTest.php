@@ -8,10 +8,10 @@
 
 namespace Tests\Unit\Properties\Triangle;
 
-use Tradeshift\interview\Polygon;
-use Tradeshift\interview\Properties\Triangle\Equilateral;
-use Tradeshift\interview\Triangle;
-use Tradeshift\interview\Vertex;
+use Tradeshift\Interview\Polygon;
+use Tradeshift\Interview\Properties\Triangle\Equilateral;
+use Tradeshift\Interview\Triangle;
+use Tradeshift\Interview\Vertex;
 
 class EquilateralTest extends \PHPUnit_Framework_TestCase
 {

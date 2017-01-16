@@ -6,9 +6,9 @@
  * Time: 11:41 AM
  */
 
-namespace Tradeshift\interview\Properties;
+namespace Tradeshift\Interview\Properties;
 
-use Tradeshift\interview\PolygonInterface;
+use Tradeshift\Interview\PolygonInterface;
 
 interface PolygonPropertyInterface
 {

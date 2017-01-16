@@ -6,7 +6,7 @@
  * Time: 2:29 AM
  */
 
-namespace Tradeshift\interview\Utilities;
+namespace Tradeshift\Interview\Utilities;
 
 class Math
 {

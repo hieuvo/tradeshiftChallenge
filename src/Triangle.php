@@ -6,12 +6,12 @@
  * Time: 2:33 PM
  */
 
-namespace Tradeshift\interview;
+namespace Tradeshift\Interview;
 
-use Tradeshift\interview\Properties\PolygonPropertyInterface;
-use Tradeshift\interview\Properties\Triangle\Equilateral;
-use Tradeshift\interview\Properties\Triangle\Isosceles;
-use Tradeshift\interview\Properties\Triangle\Scalene;
+use Tradeshift\Interview\Properties\PolygonPropertyInterface;
+use Tradeshift\Interview\Properties\Triangle\Equilateral;
+use Tradeshift\Interview\Properties\Triangle\Isosceles;
+use Tradeshift\Interview\Properties\Triangle\Scalene;
 
 class Triangle extends Polygon
 {

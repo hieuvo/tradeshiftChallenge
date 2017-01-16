@@ -16,7 +16,7 @@
     },
     "autoload": {
       "psr-4": {
-        "Tradeshift\\interview\\" : "src"
+        "Tradeshift\\Interview\\" : "src"
       },
     "files": ["config.php"]
     },

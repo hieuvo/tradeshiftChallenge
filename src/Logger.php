@@ -6,7 +6,7 @@
  * Time: 11:37 AM
  */
 
-namespace Tradeshift\interview;
+namespace Tradeshift\Interview;
 
 use Monolog;
 use Monolog\Handler\StreamHandler;

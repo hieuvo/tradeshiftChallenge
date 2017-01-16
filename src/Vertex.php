@@ -6,7 +6,7 @@
  * Time: 3:03 PM
  */
 
-namespace Tradeshift\interview;
+namespace Tradeshift\Interview;
 
 class Vertex
 {

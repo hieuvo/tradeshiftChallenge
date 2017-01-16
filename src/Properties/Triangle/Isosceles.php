@@ -6,12 +6,12 @@
  * Time: 2:58 PM
  */
 
-namespace Tradeshift\interview\Properties\Triangle;
+namespace Tradeshift\Interview\Properties\Triangle;
 
-use Tradeshift\interview\Properties\PolygonPropertyInterface;
-use Tradeshift\interview\PolygonInterface;
-use Tradeshift\interview\Triangle;
-use Tradeshift\interview\Utilities\Math;
+use Tradeshift\Interview\Properties\PolygonPropertyInterface;
+use Tradeshift\Interview\PolygonInterface;
+use Tradeshift\Interview\Triangle;
+use Tradeshift\Interview\Utilities\Math;
 
 class Isosceles implements PolygonPropertyInterface
 {

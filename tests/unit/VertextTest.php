@@ -8,7 +8,7 @@
 
 namespace Tests\Unit;
 
-use Tradeshift\interview\Vertex;
+use Tradeshift\Interview\Vertex;
 
 class VertextTest extends \PHPUnit_Framework_TestCase
 {

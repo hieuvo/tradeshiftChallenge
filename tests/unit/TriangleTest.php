@@ -8,11 +8,11 @@
 
 namespace Tests\Unit;
 
-use Tradeshift\interview\Properties\Triangle\Equilateral;
-use Tradeshift\interview\Properties\Triangle\Isosceles;
-use Tradeshift\interview\Properties\Triangle\Scalene;
-use Tradeshift\interview\Triangle;
-use Tradeshift\interview\Vertex;
+use Tradeshift\Interview\Properties\Triangle\Equilateral;
+use Tradeshift\Interview\Properties\Triangle\Isosceles;
+use Tradeshift\Interview\Properties\Triangle\Scalene;
+use Tradeshift\Interview\Triangle;
+use Tradeshift\Interview\Vertex;
 
 class TriangleTest extends \PHPUnit_Framework_TestCase
 {

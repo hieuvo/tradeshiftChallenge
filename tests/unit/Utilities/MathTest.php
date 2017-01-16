@@ -8,7 +8,7 @@
 
 namespace Tests\Unit\Utilities;
 
-use Tradeshift\interview\Utilities\Math;
+use Tradeshift\Interview\Utilities\Math;
 
 class MathTest extends \PHPUnit_Framework_TestCase
 {

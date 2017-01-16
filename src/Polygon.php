@@ -6,9 +6,9 @@
  * Time: 2:33 PM
  */
 
-namespace Tradeshift\interview;
+namespace Tradeshift\Interview;
 
-use Tradeshift\interview\Properties\PolygonPropertyInterface;
+use Tradeshift\Interview\Properties\PolygonPropertyInterface;
 
 class Polygon implements PolygonInterface
 {

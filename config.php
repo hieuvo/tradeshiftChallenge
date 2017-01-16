@@ -1,6 +1,6 @@
 <?php
 
-use Tradeshift\interview\Logger;
+use Tradeshift\Interview\Logger;
 
 // create a log channel
 

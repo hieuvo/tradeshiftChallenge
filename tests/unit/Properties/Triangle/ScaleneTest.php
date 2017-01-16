@@ -8,10 +8,10 @@
 
 namespace Tests\Unit\Properties\Triangle;
 
-use Tradeshift\interview\Properties\Triangle\Scalene;
-use Tradeshift\interview\Triangle;
-use Tradeshift\interview\Vertex;
-use Tradeshift\interview\Polygon;
+use Tradeshift\Interview\Properties\Triangle\Scalene;
+use Tradeshift\Interview\Triangle;
+use Tradeshift\Interview\Vertex;
+use Tradeshift\Interview\Polygon;
 
 class ScaleneTest extends \PHPUnit_Framework_TestCase
 {
